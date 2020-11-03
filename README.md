@@ -163,8 +163,7 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 
 The How to Code courses are based on the textbook [How to Design Programs](https://htdp.org/2003-09-26/). The First Edition is available for free online and includes problem sets and solutions. Students are encouraged to do these assignments.
 
-Courses | Duration | Effort | Prerequisites | Discussion | In progress |
-complete
+Courses | Duration | Effort | Prerequisites | Discussion | In progress | complete
 :-- | :--: | :--: | :--: | :--:| :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | 7 weeks | 8-10 hours/week | none | [chat](https://discord.gg/RfqAmGJ) | [ ] | [ ]
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | 6 weeks | 8-10 hours/week | How to Code: Simple Data | [chat](https://discord.gg/kczJzpm) | [ ] | [ ]
